@@ -1,4 +1,4 @@
-# 2020-01-08
+# 2022-03-04
 
 ## features ![](https://img.shields.io/static/v1?label=&message=new&color=red)
 
@@ -9,7 +9,3 @@
 * support import group
 
 > original: [api grammar document](./api/parser/readme.md)
-
-# 2020-01-08
-
-* add change log
